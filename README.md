@@ -1,4 +1,4 @@
-
+<img src="https://robohash.org/codesirohi.png">
 #### 🚀 About Me
 I'm a full stack developer with good understanding of DSA, Low-level System design along with 
 knowledge of Databases, User Management, Application Security, and Authentication & Authorization.
