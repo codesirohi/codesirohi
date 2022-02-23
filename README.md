@@ -1,16 +1,12 @@
 
 #### 🚀 About Me
-I'm a full stack developer with good understanding of DSA, Low-level System design along with knowledge of Databases, User Management, Application Security, and Authentication & Authorization.
+I'm a full stack developer with good understanding of DSA, Low-level System design along with 
+knowledge of Databases, User Management, Application Security, and Authentication & Authorization.
 
 
 #### 🛠 Skills
 
-- JavaScript
-- TypeScript
-- Angular/cli
-- Node.Js
-- Express.js
-- NestJS
+JavaScript | TypeScript | Angular/cli | Node.Js | Express.js | NestJS
 
 
 #### 🔗 Social Media
