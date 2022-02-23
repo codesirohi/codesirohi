@@ -1,4 +1,4 @@
-<img src="https://robohash.org/codesirohi.png">
+<img align='left' src="https://robohash.org/codesirohi.png">
 
 
 #### 🚀 About Me
