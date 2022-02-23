@@ -5,7 +5,12 @@ I'm a full stack developer with good understanding of DSA, Low-level System desi
 
 ### 🛠 Skills
 
-JavaScript, TypeScript, Angular/cli, Node.Js, Express.js, NestJS
+- JavaScript
+- TypeScript
+- Angular/cli
+- Node.Js
+- Express.js
+- NestJS
 
 
 ### 🔗 Links
