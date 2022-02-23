@@ -14,7 +14,7 @@ I'm a full stack developer with good understanding of DSA, Low-level System desi
 
 
 #### 🔗 Social Media
-<p align = 'center'>
+<img align = 'center'>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codesirohi/)
-</p>
+</img>
 <h1 align='center'><i>“step-by-step courageously.”</i></h1>
