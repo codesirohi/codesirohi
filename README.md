@@ -1,6 +1,6 @@
 <image align='left' src="https://media2.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47nteje50d67d5b498ota3o2kcjmp0yxm5jummwb2p&rid=giphy.gif&ct=g" width="260" height="240" frameBorder="0"></image>
 #### 🚀 About Me
-I'm a full stack developer with good understanding of DSA, Low-level System design along with 
+I'm a full stack developer with good understanding of DSA and Design Patterns along with 
 knowledge of Databases, User Management, Application Security, and Authentication & Authorization.
 
 
