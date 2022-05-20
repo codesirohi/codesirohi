@@ -1,4 +1,4 @@
-<image align='centre' src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b7611b5cca373f03a37aaf3bedbd963377f697da75d88&rid=giphy.gif&ct=g"  height="240" frameBorder="0"></image>
+<image align='centre' src="https://media2.giphy.com/media/xT5LMGdxRBz4TFBxyU/giphy.gif?cid=790b7611cd7f5111b8075de01a70d465b6d54be91d1cc48f&rid=giphy.gif&ct=g"  height="240" frameBorder="0"></image>
 #### 🚀 About Me
 I'm a full stack developer with good understanding of DSA and Design Patterns along with 
 knowledge of Databases, User Management, Application Security, and Authentication & Authorization.
