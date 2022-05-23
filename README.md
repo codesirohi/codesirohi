@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 
 
-<h3 align="center">I'm a passionate full stack developer with good understanding of DSA and Design Patterns along with knowledge of Databases, User Management, Application Security, and Authentication & Authorization.</h3>
+<h3 align="center">Full stack developer with good understanding Design Patterns along with knowledge of Databases, User Management, Application Security, and Authentication & Authorization.</h3>
 
 
 
