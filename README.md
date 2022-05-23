@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
+
+
 <h3 align="center">I'm a passionate full stack developer with good understanding of DSA and Design Patterns along with knowledge of Databases, User Management, Application Security, and Authentication & Authorization.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/60/02/ef/6002ef32f236ecb7c0d8744f374da976.gif">
+
 
 
 - 🔭 I’m currently working on **Code Free UI Generetor**
 
-- 💬 Ask me about **Angular, React.js, Node.js, NestJS, PostgresSQL, MongoDB, RabbitMQ, Design Patterns, System Design**
+- 💬 Ask me about **Design Patterns, System Design**
 
 - 📫 How to reach me **siddhantshubham23@gmail.com**
 
