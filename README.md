@@ -12,6 +12,10 @@
 
 - 📫 How to reach me **siddhantshubham23@gmail.com**
 
+- 👨‍💻 Watch out my [**Resume**](https://drive.google.com/file/d/10n8YWVAIaq_fjD13SxrhhOA7VNDaNH44/view?usp=sharing)
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/codesirohi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codesirohi" height="30" width="40" /></a>
