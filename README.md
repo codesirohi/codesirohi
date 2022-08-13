@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **siddhantshubham23@gmail.com**
 
-- 👨‍💻 Watch out my [**Resume**](https://drive.google.com/file/d/10n8YWVAIaq_fjD13SxrhhOA7VNDaNH44/view?usp=sharing)
+- 👨‍💻 Watch out my [**Resume**](https://drive.google.com/file/d/1jcu_7OKmbUNAVl-783pBvcSG_Y-szbC9/view?usp=sharing)
 
 
 
