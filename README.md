@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **###**
 
-- 💬 Ask me about **Design Patterns, System Design**
+- 💬 Ask me about **System Design, Application Security, Distributed Systems**
 
 - 📫 How to reach me **siddhantshubham23@gmail.com**
 
